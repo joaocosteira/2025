@@ -65,3 +65,23 @@ Exemplo de comandos:
 
 - :w para escrever em ficheiro\
 - :q para fechar o vim
+
+## NVCHAD
+
+Aprender as coisas basicas deste editor
+Ao clicar em **space t h** podemos mudar o tema do editor
+Para instalar syntax highlight para uma lingagem temos de correr o comando **:TSInstall (nome da lingua)**
+
+file tree => basicamente o que usamos no vscode, o ctrl j.
+em nvchad usa-se **ctrl option n**
+ao clicar no enter abrimos o ficheiro
+podemos clicar em m para marcar o ficheiro assim e facil de encontrar
+a para criar um novo ficheiro
+c para copiar e p para colar
+r para rename
+**space f f** para procurar um ficheiro e abrir, basicamente cmd p do vs code
+**space f b** apenas sobre os open buffers aka tabs
+**space c h** cheatsheet do nvchad
+temos a leader key, que é o space. Se clicar space e deixar um tempinho basicamente aparece um menu para podermos ver sugestoes
+
+tldr, basicamente ve este [video](https://www.youtube.com/watch?v=Mtgo-nP_r8Y)
